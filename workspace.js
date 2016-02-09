@@ -27,7 +27,7 @@ cprequire_test(["inline:com-chilipeppr-workspace-sample"], function(ws) {
     ws.init();
     
     // Do some niceties for testing like margins on widget and title for browser
-    $('title').html("Sample Workspace");
+    $('title').html("basilkretz Workspace");
     $('body').css('padding', '10px');
 
 } /*end_test*/ );
